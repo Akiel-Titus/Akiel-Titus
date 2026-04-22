@@ -1,4 +1,4 @@
-# Akiel Titus:
+# 💻 Akiel Titus:
 I am an aspiring Network Security and Cloud Engineer currently <br>pursuing my CCNA and HCIA-Security certifications. I am currently <br>working on designing and securing complex enterprise networks using Cisco <br>Packet Tracer and Huawei eNSP. Recently, I’ve simulated a <br>multi-departmental isolation, VLAN management and ASA <br>firewall configuration (NAT/ICMP Inspection).<br><br>Currently sharpening my offensive and defensive skills through <br>a 14-week Virtual Cybersecurity Internship with MWR CyberSec <br>via TryHackMe. I’m currently focused on the practical application <br>of network security, gaining hands-on experience by labbing <br>complex scenarios like VLAN synchronization and edge firewall <br>configurations.
 
 
